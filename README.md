@@ -1,1 +1,1 @@
-# RubyBlogGuildDemo
+# RubyBlogGuidDemo
